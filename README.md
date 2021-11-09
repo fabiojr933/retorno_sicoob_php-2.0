@@ -1,28 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Objetivo do projeto, criar um sistema de gerenciamento de documento.
 
-União das Faculdades de Mato Grosso - UNIFAMA - necessita de um aplicativo que automatize o processo de guardar os documentos como:
-- 👨🏽‍💻 RG.
-- 🌱 CPF.
-- 💬 Comprovante de Residência.
-- ⚡️ Histórico escolar.
-- 📫 Diploma/Certificado de conclusão do Ensino Médio.
-- 📝 Reservista.
-- 🔭 Foto 3x4.
-- 👯 Título de eleitor.
-- 🤔 Certidão casamento ou nascimento.
- <br>
- <br>
-
-<h1 align="center"><img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">Faculdade UNIFANA E UNOPAR trabalhando junto<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-
-### Os alunos da turma 8 semestres de sistema de informação - UNIFAMA -, juntamente com o aluno Fabio Pereira 6 semestre de análise e desenvolvimento de sistema - UNOPAR
-
-### Estamos desenvolvendo um sistema que gerencia e automatize todo o processo, onde os documentos dos alunos serão gravados na nuvem. 😄
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<br>
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tecnologias utilizado para criação do projeto...***
 <p align="left">
