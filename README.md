@@ -23,21 +23,7 @@ HTML, CSS, Sass, JavaScript, PHP, Git, Boostrap.
   <a href="https://www.linkedin.com/in/fabiojrp/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<br>
-<br>
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Abaixo algumas imagem do projeto!</h1>
-
----![000001](https://user-images.githubusercontent.com/41793614/137051850-0e862905-cbf1-42df-95d2-d16cb01b94a7.png)
----![000002](https://user-images.githubusercontent.com/41793614/137051868-e6080081-4a44-48d5-99c6-cd0923c926bd.png)
---![000003](https://user-images.githubusercontent.com/41793614/137051896-9051f1db-151d-4ec4-826b-2df7a00f786b.png)
-
-<br>
-
-
-
+<
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 <br>
